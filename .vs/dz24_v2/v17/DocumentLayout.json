@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\C\u002B\u002B Itstep\\VS\\dz24_v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E81981E6-3B7A-440C-BFDE-4DF2ABA776B0}|dz24_v2\\dz24_v2.vcxproj|D:\\Programming\\C\u002B\u002B Itstep\\VS\\dz24_v2\\dz24_v2\\PhoneBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E81981E6-3B7A-440C-BFDE-4DF2ABA776B0}|dz24_v2\\dz24_v2.vcxproj|solutionrelative:dz24_v2\\PhoneBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81981E6-3B7A-440C-BFDE-4DF2ABA776B0}|dz24_v2\\dz24_v2.vcxproj|D:\\Programming\\C\u002B\u002B Itstep\\VS\\dz24_v2\\dz24_v2\\PhoneBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E81981E6-3B7A-440C-BFDE-4DF2ABA776B0}|dz24_v2\\dz24_v2.vcxproj|solutionrelative:dz24_v2\\PhoneBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81981E6-3B7A-440C-BFDE-4DF2ABA776B0}|dz24_v2\\dz24_v2.vcxproj|D:\\Programming\\C\u002B\u002B Itstep\\VS\\dz24_v2\\dz24_v2\\dz24_v2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E81981E6-3B7A-440C-BFDE-4DF2ABA776B0}|dz24_v2\\dz24_v2.vcxproj|solutionrelative:dz24_v2\\dz24_v2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81981E6-3B7A-440C-BFDE-4DF2ABA776B0}|dz24_v2\\dz24_v2.vcxproj|D:\\Programming\\C\u002B\u002B Itstep\\VS\\dz24_v2\\dz24_v2\\Contact.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E81981E6-3B7A-440C-BFDE-4DF2ABA776B0}|dz24_v2\\dz24_v2.vcxproj|solutionrelative:dz24_v2\\Contact.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhoneBook.cpp",
+              "DocumentMoniker": "D:\\Programming\\C\u002B\u002B Itstep\\VS\\dz24_v2\\dz24_v2\\PhoneBook.cpp",
+              "RelativeDocumentMoniker": "dz24_v2\\PhoneBook.cpp",
+              "ToolTip": "D:\\Programming\\C\u002B\u002B Itstep\\VS\\dz24_v2\\dz24_v2\\PhoneBook.cpp",
+              "RelativeToolTip": "dz24_v2\\PhoneBook.cpp",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T04:00:32.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhoneBook.h",
+              "DocumentMoniker": "D:\\Programming\\C\u002B\u002B Itstep\\VS\\dz24_v2\\dz24_v2\\PhoneBook.h",
+              "RelativeDocumentMoniker": "dz24_v2\\PhoneBook.h",
+              "ToolTip": "D:\\Programming\\C\u002B\u002B Itstep\\VS\\dz24_v2\\dz24_v2\\PhoneBook.h",
+              "RelativeToolTip": "dz24_v2\\PhoneBook.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-31T04:00:17.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.h",
+              "DocumentMoniker": "D:\\Programming\\C\u002B\u002B Itstep\\VS\\dz24_v2\\dz24_v2\\Contact.h",
+              "RelativeDocumentMoniker": "dz24_v2\\Contact.h",
+              "ToolTip": "D:\\Programming\\C\u002B\u002B Itstep\\VS\\dz24_v2\\dz24_v2\\Contact.h",
+              "RelativeToolTip": "dz24_v2\\Contact.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-31T04:00:24.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dz24_v2.cpp",
+              "DocumentMoniker": "D:\\Programming\\C\u002B\u002B Itstep\\VS\\dz24_v2\\dz24_v2\\dz24_v2.cpp",
+              "RelativeDocumentMoniker": "dz24_v2\\dz24_v2.cpp",
+              "ToolTip": "D:\\Programming\\C\u002B\u002B Itstep\\VS\\dz24_v2\\dz24_v2\\dz24_v2.cpp",
+              "RelativeToolTip": "dz24_v2\\dz24_v2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T03:56:42.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

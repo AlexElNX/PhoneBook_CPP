@@ -1,0 +1,4 @@
+﻿  PhoneBook.cpp
+D:\Programming\C++ Itstep\VS\dz24_v2\dz24_v2\PhoneBook.cpp(57,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Programming\C++ Itstep\VS\dz24_v2\dz24_v2\PhoneBook.cpp(113,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  dz24_v2.vcxproj -> D:\Programming\C++ Itstep\VS\dz24_v2\x64\Debug\dz24_v2.exe
